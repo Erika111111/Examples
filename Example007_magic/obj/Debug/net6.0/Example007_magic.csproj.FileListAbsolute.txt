@@ -1,0 +1,15 @@
+/Users/mityukov/Desktop/Examples/Example007_magic/bin/Debug/net6.0/Example007_magic
+/Users/mityukov/Desktop/Examples/Example007_magic/bin/Debug/net6.0/Example007_magic.deps.json
+/Users/mityukov/Desktop/Examples/Example007_magic/bin/Debug/net6.0/Example007_magic.runtimeconfig.json
+/Users/mityukov/Desktop/Examples/Example007_magic/bin/Debug/net6.0/Example007_magic.dll
+/Users/mityukov/Desktop/Examples/Example007_magic/bin/Debug/net6.0/Example007_magic.pdb
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.csproj.AssemblyReference.cache
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.AssemblyInfoInputs.cache
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.AssemblyInfo.cs
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.csproj.CoreCompileInputs.cache
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.dll
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/refint/Example007_magic.dll
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.pdb
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/Example007_magic.genruntimeconfig.cache
+/Users/mityukov/Desktop/Examples/Example007_magic/obj/Debug/net6.0/ref/Example007_magic.dll
